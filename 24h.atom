@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Bugs changed in the last 24h</title>
+  <link rel="alternate" type="text/html"
+        href="https://bugs.r-project.org/buglist.cgi?chfieldfrom=24h&amp;query_format=advanced&amp;title=Bugs%20changed%20in%20the%20last%2024h"/>
+  <link rel="self" type="application/atom+xml"
+        href="https://bugs.r-project.org/buglist.cgi?chfieldfrom=24h&amp;ctype=atom&amp;query_format=advanced&amp;title=Bugs%20changed%20in%20the%20last%2024h"/>
+  <updated>2026-11-07T03:52:14Z</updated>
+  <id>https://bugs.r-project.org/buglist.cgi?chfieldfrom=24h&amp;ctype=atom&amp;query_format=advanced&amp;title=Bugs%20changed%20in%20the%20last%2024h</id>
+
+  <entry>
+    <title>[Bug 19290] Surprise old R versions for Windows now only located at https://cran-archive.r-project.org/bin/windows/base/old</title>
+    <link rel="alternate" type="text/html"
+          href="https://bugs.r-project.org/show_bug.cgi?id=19290"/>
+    <id>https://bugs.r-project.org/show_bug.cgi?id=19290</id>
+    <author>
+      <name>Andre Mikulec</name>
+    </author>
+    <updated>2026-11-07T03:52:14Z</updated>
+    <summary type="html">
+      
+      &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Field&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_product&quot;&gt;
+        &lt;td&gt;Product&lt;/td&gt;
+        &lt;td&gt;R&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_component&quot;&gt;
+        &lt;td&gt;Component&lt;/td&gt;
+        &lt;td&gt;Installation&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_assignee&quot;&gt;
+        &lt;td&gt;AssignedToName&lt;/td&gt;
+        &lt;td&gt;R-core&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_reporter&quot;&gt;
+        &lt;td&gt;ReportedByName&lt;/td&gt;
+        &lt;td&gt;Andre Mikulec&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_bug_status&quot;&gt;
+        &lt;td&gt;Status&lt;/td&gt;
+        &lt;td&gt;UNCONFIRMED&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_resolution&quot;&gt;
+        &lt;td&gt;Resolution &lt;/td&gt;
+        &lt;td&gt;---&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_priority&quot;&gt;
+        &lt;td&gt;Priority&lt;/td&gt;
+        &lt;td&gt;P5&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_severity&quot;&gt;
+        &lt;td&gt;Severity &lt;/td&gt;
+        &lt;td&gt;minor&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_creation_date&quot;&gt;
+        &lt;td&gt;Creation date&lt;/td&gt;
+        &lt;td&gt;2026-11-07T03:52:14Z&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_changed_date&quot;&gt;
+        &lt;td&gt;Last changed date&lt;/td&gt;
+        &lt;td&gt;2026-11-07T03:52:14Z&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>[Bug 19287] readRDS() can seg.fault on a malformed serialized ALTREP object</title>
+    <link rel="alternate" type="text/html"
+          href="https://bugs.r-project.org/show_bug.cgi?id=19287"/>
+    <id>https://bugs.r-project.org/show_bug.cgi?id=19287</id>
+    <author>
+      <name>Kevin Ushey</name>
+    </author>
+    <updated>2026-11-06T18:16:27Z</updated>
+    <summary type="html">
+      
+      &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Field&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_product&quot;&gt;
+        &lt;td&gt;Product&lt;/td&gt;
+        &lt;td&gt;R&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_component&quot;&gt;
+        &lt;td&gt;Component&lt;/td&gt;
+        &lt;td&gt;I/O&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_assignee&quot;&gt;
+        &lt;td&gt;AssignedToName&lt;/td&gt;
+        &lt;td&gt;R-core&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_reporter&quot;&gt;
+        &lt;td&gt;ReportedByName&lt;/td&gt;
+        &lt;td&gt;Kevin Ushey&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_bug_status&quot;&gt;
+        &lt;td&gt;Status&lt;/td&gt;
+        &lt;td&gt;NEW&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_resolution&quot;&gt;
+        &lt;td&gt;Resolution &lt;/td&gt;
+        &lt;td&gt;---&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_priority&quot;&gt;
+        &lt;td&gt;Priority&lt;/td&gt;
+        &lt;td&gt;P2&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_severity&quot;&gt;
+        &lt;td&gt;Severity &lt;/td&gt;
+        &lt;td&gt;normal&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_creation_date&quot;&gt;
+        &lt;td&gt;Creation date&lt;/td&gt;
+        &lt;td&gt;2026-11-06T18:05:08Z&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_changed_date&quot;&gt;
+        &lt;td&gt;Last changed date&lt;/td&gt;
+        &lt;td&gt;2026-11-06T18:16:27Z&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>[Bug 19288] unserialize() reads past a string&apos;s end when a stream declares the wchar_t encoding</title>
+    <link rel="alternate" type="text/html"
+          href="https://bugs.r-project.org/show_bug.cgi?id=19288"/>
+    <id>https://bugs.r-project.org/show_bug.cgi?id=19288</id>
+    <author>
+      <name>Kevin Ushey</name>
+    </author>
+    <updated>2026-11-06T18:21:01Z</updated>
+    <summary type="html">
+      
+      &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Field&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_product&quot;&gt;
+        &lt;td&gt;Product&lt;/td&gt;
+        &lt;td&gt;R&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_component&quot;&gt;
+        &lt;td&gt;Component&lt;/td&gt;
+        &lt;td&gt;I/O&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_assignee&quot;&gt;
+        &lt;td&gt;AssignedToName&lt;/td&gt;
+        &lt;td&gt;R-core&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_reporter&quot;&gt;
+        &lt;td&gt;ReportedByName&lt;/td&gt;
+        &lt;td&gt;Kevin Ushey&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_bug_status&quot;&gt;
+        &lt;td&gt;Status&lt;/td&gt;
+        &lt;td&gt;NEW&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_resolution&quot;&gt;
+        &lt;td&gt;Resolution &lt;/td&gt;
+        &lt;td&gt;---&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_priority&quot;&gt;
+        &lt;td&gt;Priority&lt;/td&gt;
+        &lt;td&gt;P2&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_severity&quot;&gt;
+        &lt;td&gt;Severity &lt;/td&gt;
+        &lt;td&gt;normal&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_creation_date&quot;&gt;
+        &lt;td&gt;Creation date&lt;/td&gt;
+        &lt;td&gt;2026-11-06T18:20:50Z&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_changed_date&quot;&gt;
+        &lt;td&gt;Last changed date&lt;/td&gt;
+        &lt;td&gt;2026-11-06T18:21:01Z&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>[Bug 19289] readChar() on a raw vector can write past its buffer in UTF-8 locales on macOS</title>
+    <link rel="alternate" type="text/html"
+          href="https://bugs.r-project.org/show_bug.cgi?id=19289"/>
+    <id>https://bugs.r-project.org/show_bug.cgi?id=19289</id>
+    <author>
+      <name>Kevin Ushey</name>
+    </author>
+    <updated>2026-11-06T19:02:58Z</updated>
+    <summary type="html">
+      
+      &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Field&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_product&quot;&gt;
+        &lt;td&gt;Product&lt;/td&gt;
+        &lt;td&gt;R&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_component&quot;&gt;
+        &lt;td&gt;Component&lt;/td&gt;
+        &lt;td&gt;I/O&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_assignee&quot;&gt;
+        &lt;td&gt;AssignedToName&lt;/td&gt;
+        &lt;td&gt;R-core&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_reporter&quot;&gt;
+        &lt;td&gt;ReportedByName&lt;/td&gt;
+        &lt;td&gt;Kevin Ushey&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_bug_status&quot;&gt;
+        &lt;td&gt;Status&lt;/td&gt;
+        &lt;td&gt;NEW&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_resolution&quot;&gt;
+        &lt;td&gt;Resolution &lt;/td&gt;
+        &lt;td&gt;---&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_priority&quot;&gt;
+        &lt;td&gt;Priority&lt;/td&gt;
+        &lt;td&gt;P3&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_severity&quot;&gt;
+        &lt;td&gt;Severity &lt;/td&gt;
+        &lt;td&gt;normal&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_creation_date&quot;&gt;
+        &lt;td&gt;Creation date&lt;/td&gt;
+        &lt;td&gt;2026-11-06T19:02:45Z&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_changed_date&quot;&gt;
+        &lt;td&gt;Last changed date&lt;/td&gt;
+        &lt;td&gt;2026-11-06T19:02:58Z&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>[Bug 17944] unnecessary coercions to superclasses in validObject()</title>
+    <link rel="alternate" type="text/html"
+          href="https://bugs.r-project.org/show_bug.cgi?id=17944"/>
+    <id>https://bugs.r-project.org/show_bug.cgi?id=17944</id>
+    <author>
+      <name>Herv� Pag�s</name>
+    </author>
+    <updated>2026-11-06T18:23:39Z</updated>
+    <summary type="html">
+      
+      &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Field&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_product&quot;&gt;
+        &lt;td&gt;Product&lt;/td&gt;
+        &lt;td&gt;R&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_component&quot;&gt;
+        &lt;td&gt;Component&lt;/td&gt;
+        &lt;td&gt;S4methods&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_assignee&quot;&gt;
+        &lt;td&gt;AssignedToName&lt;/td&gt;
+        &lt;td&gt;R-core&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_reporter&quot;&gt;
+        &lt;td&gt;ReportedByName&lt;/td&gt;
+        &lt;td&gt;Herv� Pag�s&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_bug_status&quot;&gt;
+        &lt;td&gt;Status&lt;/td&gt;
+        &lt;td&gt;CONFIRMED&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_resolution&quot;&gt;
+        &lt;td&gt;Resolution &lt;/td&gt;
+        &lt;td&gt;---&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_priority&quot;&gt;
+        &lt;td&gt;Priority&lt;/td&gt;
+        &lt;td&gt;P5&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_severity&quot;&gt;
+        &lt;td&gt;Severity &lt;/td&gt;
+        &lt;td&gt;normal&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_creation_date&quot;&gt;
+        &lt;td&gt;Creation date&lt;/td&gt;
+        &lt;td&gt;2020-10-12T02:26:22Z&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_changed_date&quot;&gt;
+        &lt;td&gt;Last changed date&lt;/td&gt;
+        &lt;td&gt;2026-11-06T18:23:39Z&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>[Bug 19047] Loading a malicious .rds file can crash R</title>
+    <link rel="alternate" type="text/html"
+          href="https://bugs.r-project.org/show_bug.cgi?id=19047"/>
+    <id>https://bugs.r-project.org/show_bug.cgi?id=19047</id>
+    <author>
+      <name>Bill Denney</name>
+    </author>
+    <updated>2026-11-06T18:21:02Z</updated>
+    <summary type="html">
+      
+      &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Field&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_product&quot;&gt;
+        &lt;td&gt;Product&lt;/td&gt;
+        &lt;td&gt;R&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_component&quot;&gt;
+        &lt;td&gt;Component&lt;/td&gt;
+        &lt;td&gt;I/O&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_assignee&quot;&gt;
+        &lt;td&gt;AssignedToName&lt;/td&gt;
+        &lt;td&gt;R-core&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_reporter&quot;&gt;
+        &lt;td&gt;ReportedByName&lt;/td&gt;
+        &lt;td&gt;Bill Denney&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_bug_status&quot;&gt;
+        &lt;td&gt;Status&lt;/td&gt;
+        &lt;td&gt;CLOSED&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_resolution&quot;&gt;
+        &lt;td&gt;Resolution &lt;/td&gt;
+        &lt;td&gt;FIXED&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_priority&quot;&gt;
+        &lt;td&gt;Priority&lt;/td&gt;
+        &lt;td&gt;P5&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_severity&quot;&gt;
+        &lt;td&gt;Severity &lt;/td&gt;
+        &lt;td&gt;major&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_creation_date&quot;&gt;
+        &lt;td&gt;Creation date&lt;/td&gt;
+        &lt;td&gt;2026-04-11T01:22:26Z&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_changed_date&quot;&gt;
+        &lt;td&gt;Last changed date&lt;/td&gt;
+        &lt;td&gt;2026-11-06T18:21:02Z&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </summary>
+  </entry>
+</feed>
