@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Bugs changed in the last 24h</title>
+  <link rel="alternate" type="text/html"
+        href="https://bugs.r-project.org/buglist.cgi?chfieldfrom=24h&amp;query_format=advanced&amp;title=Bugs%20changed%20in%20the%20last%2024h"/>
+  <link rel="self" type="application/atom+xml"
+        href="https://bugs.r-project.org/buglist.cgi?chfieldfrom=24h&amp;ctype=atom&amp;query_format=advanced&amp;title=Bugs%20changed%20in%20the%20last%2024h"/>
+  <updated>2026-09-16T00:32:01Z</updated>
+  <id>https://bugs.r-project.org/buglist.cgi?chfieldfrom=24h&amp;ctype=atom&amp;query_format=advanced&amp;title=Bugs%20changed%20in%20the%20last%2024h</id>
+
+  <entry>
+    <title>[Bug 19047] Loading a malicious .rds file can crash R</title>
+    <link rel="alternate" type="text/html"
+          href="https://bugs.r-project.org/show_bug.cgi?id=19047"/>
+    <id>https://bugs.r-project.org/show_bug.cgi?id=19047</id>
+    <author>
+      <name>Bill Denney</name>
+    </author>
+    <updated>2026-09-16T00:32:01Z</updated>
+    <summary type="html">
+      
+      &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Field&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_product&quot;&gt;
+        &lt;td&gt;Product&lt;/td&gt;
+        &lt;td&gt;R&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_component&quot;&gt;
+        &lt;td&gt;Component&lt;/td&gt;
+        &lt;td&gt;I/O&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_assignee&quot;&gt;
+        &lt;td&gt;AssignedToName&lt;/td&gt;
+        &lt;td&gt;R-core&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_reporter&quot;&gt;
+        &lt;td&gt;ReportedByName&lt;/td&gt;
+        &lt;td&gt;Bill Denney&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_bug_status&quot;&gt;
+        &lt;td&gt;Status&lt;/td&gt;
+        &lt;td&gt;UNCONFIRMED&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_resolution&quot;&gt;
+        &lt;td&gt;Resolution &lt;/td&gt;
+        &lt;td&gt;---&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_priority&quot;&gt;
+        &lt;td&gt;Priority&lt;/td&gt;
+        &lt;td&gt;P5&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_severity&quot;&gt;
+        &lt;td&gt;Severity &lt;/td&gt;
+        &lt;td&gt;major&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_creation_date&quot;&gt;
+        &lt;td&gt;Creation date&lt;/td&gt;
+        &lt;td&gt;2026-04-11T01:22:26Z&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_changed_date&quot;&gt;
+        &lt;td&gt;Last changed date&lt;/td&gt;
+        &lt;td&gt;2026-09-16T00:32:01Z&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>[Bug 19174] foreign package: Add variable labels to write.foreign for SAS</title>
+    <link rel="alternate" type="text/html"
+          href="https://bugs.r-project.org/show_bug.cgi?id=19174"/>
+    <id>https://bugs.r-project.org/show_bug.cgi?id=19174</id>
+    <author>
+      <name>Stephanie Zimmer</name>
+    </author>
+    <updated>2026-09-15T17:07:00Z</updated>
+    <summary type="html">
+      
+      &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Field&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_product&quot;&gt;
+        &lt;td&gt;Product&lt;/td&gt;
+        &lt;td&gt;R&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_component&quot;&gt;
+        &lt;td&gt;Component&lt;/td&gt;
+        &lt;td&gt;Add-ons&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_assignee&quot;&gt;
+        &lt;td&gt;AssignedToName&lt;/td&gt;
+        &lt;td&gt;R-core&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_reporter&quot;&gt;
+        &lt;td&gt;ReportedByName&lt;/td&gt;
+        &lt;td&gt;Stephanie Zimmer&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_bug_status&quot;&gt;
+        &lt;td&gt;Status&lt;/td&gt;
+        &lt;td&gt;UNCONFIRMED&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_resolution&quot;&gt;
+        &lt;td&gt;Resolution &lt;/td&gt;
+        &lt;td&gt;---&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_priority&quot;&gt;
+        &lt;td&gt;Priority&lt;/td&gt;
+        &lt;td&gt;P5&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_severity&quot;&gt;
+        &lt;td&gt;Severity &lt;/td&gt;
+        &lt;td&gt;enhancement&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_creation_date&quot;&gt;
+        &lt;td&gt;Creation date&lt;/td&gt;
+        &lt;td&gt;2026-09-15T13:37:19Z&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_changed_date&quot;&gt;
+        &lt;td&gt;Last changed date&lt;/td&gt;
+        &lt;td&gt;2026-09-15T17:07:00Z&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>[Bug 19173] as.list.function()&apos; dispatches without checking argument</title>
+    <link rel="alternate" type="text/html"
+          href="https://bugs.r-project.org/show_bug.cgi?id=19173"/>
+    <id>https://bugs.r-project.org/show_bug.cgi?id=19173</id>
+    <author>
+      <name>mark padgham</name>
+    </author>
+    <updated>2026-09-15T14:01:05Z</updated>
+    <summary type="html">
+      
+      &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Field&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_product&quot;&gt;
+        &lt;td&gt;Product&lt;/td&gt;
+        &lt;td&gt;R&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_component&quot;&gt;
+        &lt;td&gt;Component&lt;/td&gt;
+        &lt;td&gt;Language&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_assignee&quot;&gt;
+        &lt;td&gt;AssignedToName&lt;/td&gt;
+        &lt;td&gt;R-core&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_reporter&quot;&gt;
+        &lt;td&gt;ReportedByName&lt;/td&gt;
+        &lt;td&gt;mark padgham&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_bug_status&quot;&gt;
+        &lt;td&gt;Status&lt;/td&gt;
+        &lt;td&gt;CONFIRMED&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_resolution&quot;&gt;
+        &lt;td&gt;Resolution &lt;/td&gt;
+        &lt;td&gt;---&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_priority&quot;&gt;
+        &lt;td&gt;Priority&lt;/td&gt;
+        &lt;td&gt;P5&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_severity&quot;&gt;
+        &lt;td&gt;Severity &lt;/td&gt;
+        &lt;td&gt;normal&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_creation_date&quot;&gt;
+        &lt;td&gt;Creation date&lt;/td&gt;
+        &lt;td&gt;2026-09-15T12:39:26Z&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_changed_date&quot;&gt;
+        &lt;td&gt;Last changed date&lt;/td&gt;
+        &lt;td&gt;2026-09-15T14:01:05Z&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </summary>
+  </entry>
+</feed>
