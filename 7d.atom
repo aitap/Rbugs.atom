@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Bugs changed in the last 7d</title>
+  <link rel="alternate" type="text/html"
+        href="https://bugs.r-project.org/buglist.cgi?chfieldfrom=7d&amp;query_format=advanced&amp;title=Bugs%20changed%20in%20the%20last%207d"/>
+  <link rel="self" type="application/atom+xml"
+        href="https://bugs.r-project.org/buglist.cgi?chfieldfrom=7d&amp;ctype=atom&amp;query_format=advanced&amp;title=Bugs%20changed%20in%20the%20last%207d"/>
+  <updated>2026-09-19T17:24:51Z</updated>
+  <id>https://bugs.r-project.org/buglist.cgi?chfieldfrom=7d&amp;ctype=atom&amp;query_format=advanced&amp;title=Bugs%20changed%20in%20the%20last%207d</id>
+
+  <entry>
+    <title>[Bug 17760] utils::stack would benefit from understanding stringsAsFactors</title>
+    <link rel="alternate" type="text/html"
+          href="https://bugs.r-project.org/show_bug.cgi?id=17760"/>
+    <id>https://bugs.r-project.org/show_bug.cgi?id=17760</id>
+    <author>
+      <name>Alexandre Courtiol</name>
+    </author>
+    <updated>2026-09-16T09:11:20Z</updated>
+    <summary type="html">
+      
+      &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Field&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_product&quot;&gt;
+        &lt;td&gt;Product&lt;/td&gt;
+        &lt;td&gt;R&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_component&quot;&gt;
+        &lt;td&gt;Component&lt;/td&gt;
+        &lt;td&gt;Wishlist&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_assignee&quot;&gt;
+        &lt;td&gt;AssignedToName&lt;/td&gt;
+        &lt;td&gt;R-core&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_reporter&quot;&gt;
+        &lt;td&gt;ReportedByName&lt;/td&gt;
+        &lt;td&gt;Alexandre Courtiol&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_bug_status&quot;&gt;
+        &lt;td&gt;Status&lt;/td&gt;
+        &lt;td&gt;UNCONFIRMED&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_resolution&quot;&gt;
+        &lt;td&gt;Resolution &lt;/td&gt;
+        &lt;td&gt;---&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_priority&quot;&gt;
+        &lt;td&gt;Priority&lt;/td&gt;
+        &lt;td&gt;P5&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_severity&quot;&gt;
+        &lt;td&gt;Severity &lt;/td&gt;
+        &lt;td&gt;enhancement&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_creation_date&quot;&gt;
+        &lt;td&gt;Creation date&lt;/td&gt;
+        &lt;td&gt;2020-04-14T12:42:19Z&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_changed_date&quot;&gt;
+        &lt;td&gt;Last changed date&lt;/td&gt;
+        &lt;td&gt;2026-09-16T09:11:20Z&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>[Bug 18880] Missing cross references between help pages?</title>
+    <link rel="alternate" type="text/html"
+          href="https://bugs.r-project.org/show_bug.cgi?id=18880"/>
+    <id>https://bugs.r-project.org/show_bug.cgi?id=18880</id>
+    <author>
+      <name>Llu�s</name>
+    </author>
+    <updated>2026-09-19T10:36:55Z</updated>
+    <summary type="html">
+      
+      &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Field&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_product&quot;&gt;
+        &lt;td&gt;Product&lt;/td&gt;
+        &lt;td&gt;R&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_component&quot;&gt;
+        &lt;td&gt;Component&lt;/td&gt;
+        &lt;td&gt;Documentation&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_assignee&quot;&gt;
+        &lt;td&gt;AssignedToName&lt;/td&gt;
+        &lt;td&gt;R-core&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_reporter&quot;&gt;
+        &lt;td&gt;ReportedByName&lt;/td&gt;
+        &lt;td&gt;Llu�s&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_bug_status&quot;&gt;
+        &lt;td&gt;Status&lt;/td&gt;
+        &lt;td&gt;UNCONFIRMED&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_resolution&quot;&gt;
+        &lt;td&gt;Resolution &lt;/td&gt;
+        &lt;td&gt;---&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_priority&quot;&gt;
+        &lt;td&gt;Priority&lt;/td&gt;
+        &lt;td&gt;P5&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_severity&quot;&gt;
+        &lt;td&gt;Severity &lt;/td&gt;
+        &lt;td&gt;enhancement&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_creation_date&quot;&gt;
+        &lt;td&gt;Creation date&lt;/td&gt;
+        &lt;td&gt;2025-04-06T16:12:31Z&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_changed_date&quot;&gt;
+        &lt;td&gt;Last changed date&lt;/td&gt;
+        &lt;td&gt;2026-09-19T10:36:55Z&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>[Bug 19004] Package version: keep formatting</title>
+    <link rel="alternate" type="text/html"
+          href="https://bugs.r-project.org/show_bug.cgi?id=19004"/>
+    <id>https://bugs.r-project.org/show_bug.cgi?id=19004</id>
+    <author>
+      <name>Llu�s</name>
+    </author>
+    <updated>2026-09-19T10:29:26Z</updated>
+    <summary type="html">
+      
+      &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Field&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_product&quot;&gt;
+        &lt;td&gt;Product&lt;/td&gt;
+        &lt;td&gt;R&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_component&quot;&gt;
+        &lt;td&gt;Component&lt;/td&gt;
+        &lt;td&gt;Wishlist&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_assignee&quot;&gt;
+        &lt;td&gt;AssignedToName&lt;/td&gt;
+        &lt;td&gt;R-core&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_reporter&quot;&gt;
+        &lt;td&gt;ReportedByName&lt;/td&gt;
+        &lt;td&gt;Llu�s&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_bug_status&quot;&gt;
+        &lt;td&gt;Status&lt;/td&gt;
+        &lt;td&gt;UNCONFIRMED&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_resolution&quot;&gt;
+        &lt;td&gt;Resolution &lt;/td&gt;
+        &lt;td&gt;---&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_priority&quot;&gt;
+        &lt;td&gt;Priority&lt;/td&gt;
+        &lt;td&gt;P5&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_severity&quot;&gt;
+        &lt;td&gt;Severity &lt;/td&gt;
+        &lt;td&gt;normal&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_creation_date&quot;&gt;
+        &lt;td&gt;Creation date&lt;/td&gt;
+        &lt;td&gt;2026-02-14T11:56:06Z&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_changed_date&quot;&gt;
+        &lt;td&gt;Last changed date&lt;/td&gt;
+        &lt;td&gt;2026-09-19T10:29:26Z&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>[Bug 19047] Loading a malicious .rds file can crash R</title>
+    <link rel="alternate" type="text/html"
+          href="https://bugs.r-project.org/show_bug.cgi?id=19047"/>
+    <id>https://bugs.r-project.org/show_bug.cgi?id=19047</id>
+    <author>
+      <name>Bill Denney</name>
+    </author>
+    <updated>2026-09-16T00:32:01Z</updated>
+    <summary type="html">
+      
+      &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Field&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_product&quot;&gt;
+        &lt;td&gt;Product&lt;/td&gt;
+        &lt;td&gt;R&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_component&quot;&gt;
+        &lt;td&gt;Component&lt;/td&gt;
+        &lt;td&gt;I/O&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_assignee&quot;&gt;
+        &lt;td&gt;AssignedToName&lt;/td&gt;
+        &lt;td&gt;R-core&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_reporter&quot;&gt;
+        &lt;td&gt;ReportedByName&lt;/td&gt;
+        &lt;td&gt;Bill Denney&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_bug_status&quot;&gt;
+        &lt;td&gt;Status&lt;/td&gt;
+        &lt;td&gt;UNCONFIRMED&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_resolution&quot;&gt;
+        &lt;td&gt;Resolution &lt;/td&gt;
+        &lt;td&gt;---&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_priority&quot;&gt;
+        &lt;td&gt;Priority&lt;/td&gt;
+        &lt;td&gt;P5&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_severity&quot;&gt;
+        &lt;td&gt;Severity &lt;/td&gt;
+        &lt;td&gt;major&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_creation_date&quot;&gt;
+        &lt;td&gt;Creation date&lt;/td&gt;
+        &lt;td&gt;2026-04-11T01:22:26Z&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_changed_date&quot;&gt;
+        &lt;td&gt;Last changed date&lt;/td&gt;
+        &lt;td&gt;2026-09-16T00:32:01Z&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>[Bug 19174] foreign package: Add variable labels to write.foreign for SAS</title>
+    <link rel="alternate" type="text/html"
+          href="https://bugs.r-project.org/show_bug.cgi?id=19174"/>
+    <id>https://bugs.r-project.org/show_bug.cgi?id=19174</id>
+    <author>
+      <name>Stephanie Zimmer</name>
+    </author>
+    <updated>2026-09-16T04:10:05Z</updated>
+    <summary type="html">
+      
+      &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Field&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_product&quot;&gt;
+        &lt;td&gt;Product&lt;/td&gt;
+        &lt;td&gt;R&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_component&quot;&gt;
+        &lt;td&gt;Component&lt;/td&gt;
+        &lt;td&gt;Add-ons&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_assignee&quot;&gt;
+        &lt;td&gt;AssignedToName&lt;/td&gt;
+        &lt;td&gt;R-core&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_reporter&quot;&gt;
+        &lt;td&gt;ReportedByName&lt;/td&gt;
+        &lt;td&gt;Stephanie Zimmer&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_bug_status&quot;&gt;
+        &lt;td&gt;Status&lt;/td&gt;
+        &lt;td&gt;UNCONFIRMED&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_resolution&quot;&gt;
+        &lt;td&gt;Resolution &lt;/td&gt;
+        &lt;td&gt;---&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_priority&quot;&gt;
+        &lt;td&gt;Priority&lt;/td&gt;
+        &lt;td&gt;P5&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_severity&quot;&gt;
+        &lt;td&gt;Severity &lt;/td&gt;
+        &lt;td&gt;enhancement&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_creation_date&quot;&gt;
+        &lt;td&gt;Creation date&lt;/td&gt;
+        &lt;td&gt;2026-09-15T13:37:19Z&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_changed_date&quot;&gt;
+        &lt;td&gt;Last changed date&lt;/td&gt;
+        &lt;td&gt;2026-09-16T04:10:05Z&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>[Bug 7195] additional examples for R-intro.texi</title>
+    <link rel="alternate" type="text/html"
+          href="https://bugs.r-project.org/show_bug.cgi?id=7195"/>
+    <id>https://bugs.r-project.org/show_bug.cgi?id=7195</id>
+    <author>
+      <name>Jitterbug compatibility account</name>
+    </author>
+    <updated>2026-09-19T10:17:49Z</updated>
+    <summary type="html">
+      
+      &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Field&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_product&quot;&gt;
+        &lt;td&gt;Product&lt;/td&gt;
+        &lt;td&gt;R&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_component&quot;&gt;
+        &lt;td&gt;Component&lt;/td&gt;
+        &lt;td&gt;Documentation&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_assignee&quot;&gt;
+        &lt;td&gt;AssignedToName&lt;/td&gt;
+        &lt;td&gt;R-core&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_reporter&quot;&gt;
+        &lt;td&gt;ReportedByName&lt;/td&gt;
+        &lt;td&gt;Jitterbug compatibility account&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_bug_status&quot;&gt;
+        &lt;td&gt;Status&lt;/td&gt;
+        &lt;td&gt;NEW&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_resolution&quot;&gt;
+        &lt;td&gt;Resolution &lt;/td&gt;
+        &lt;td&gt;---&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_priority&quot;&gt;
+        &lt;td&gt;Priority&lt;/td&gt;
+        &lt;td&gt;P5&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_severity&quot;&gt;
+        &lt;td&gt;Severity &lt;/td&gt;
+        &lt;td&gt;normal&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_creation_date&quot;&gt;
+        &lt;td&gt;Creation date&lt;/td&gt;
+        &lt;td&gt;2004-08-24T15:59:57Z&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_changed_date&quot;&gt;
+        &lt;td&gt;Last changed date&lt;/td&gt;
+        &lt;td&gt;2026-09-19T10:17:49Z&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>[Bug 19175] segfault from integer overflow for besselI/K</title>
+    <link rel="alternate" type="text/html"
+          href="https://bugs.r-project.org/show_bug.cgi?id=19175"/>
+    <id>https://bugs.r-project.org/show_bug.cgi?id=19175</id>
+    <author>
+      <name>Ben Bolker</name>
+    </author>
+    <updated>2026-09-18T19:28:52Z</updated>
+    <summary type="html">
+      
+      &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Field&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_product&quot;&gt;
+        &lt;td&gt;Product&lt;/td&gt;
+        &lt;td&gt;R&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_component&quot;&gt;
+        &lt;td&gt;Component&lt;/td&gt;
+        &lt;td&gt;Low-level&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_assignee&quot;&gt;
+        &lt;td&gt;AssignedToName&lt;/td&gt;
+        &lt;td&gt;Martin Maechler&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_reporter&quot;&gt;
+        &lt;td&gt;ReportedByName&lt;/td&gt;
+        &lt;td&gt;Ben Bolker&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_bug_status&quot;&gt;
+        &lt;td&gt;Status&lt;/td&gt;
+        &lt;td&gt;CONFIRMED&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_resolution&quot;&gt;
+        &lt;td&gt;Resolution &lt;/td&gt;
+        &lt;td&gt;---&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_priority&quot;&gt;
+        &lt;td&gt;Priority&lt;/td&gt;
+        &lt;td&gt;P5&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_severity&quot;&gt;
+        &lt;td&gt;Severity &lt;/td&gt;
+        &lt;td&gt;normal&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_creation_date&quot;&gt;
+        &lt;td&gt;Creation date&lt;/td&gt;
+        &lt;td&gt;2026-09-17T22:45:09Z&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_changed_date&quot;&gt;
+        &lt;td&gt;Last changed date&lt;/td&gt;
+        &lt;td&gt;2026-09-18T19:28:52Z&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>[Bug 18366] Merge does not treat string &quot;NA&quot; as intended</title>
+    <link rel="alternate" type="text/html"
+          href="https://bugs.r-project.org/show_bug.cgi?id=18366"/>
+    <id>https://bugs.r-project.org/show_bug.cgi?id=18366</id>
+    <author>
+      <name>Rob Carnell</name>
+    </author>
+    <updated>2026-09-14T03:48:23Z</updated>
+    <summary type="html">
+      
+      &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Field&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_product&quot;&gt;
+        &lt;td&gt;Product&lt;/td&gt;
+        &lt;td&gt;R&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_component&quot;&gt;
+        &lt;td&gt;Component&lt;/td&gt;
+        &lt;td&gt;Language&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_assignee&quot;&gt;
+        &lt;td&gt;AssignedToName&lt;/td&gt;
+        &lt;td&gt;R-core&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_reporter&quot;&gt;
+        &lt;td&gt;ReportedByName&lt;/td&gt;
+        &lt;td&gt;Rob Carnell&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_bug_status&quot;&gt;
+        &lt;td&gt;Status&lt;/td&gt;
+        &lt;td&gt;CONFIRMED&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_resolution&quot;&gt;
+        &lt;td&gt;Resolution &lt;/td&gt;
+        &lt;td&gt;---&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_priority&quot;&gt;
+        &lt;td&gt;Priority&lt;/td&gt;
+        &lt;td&gt;P5&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_severity&quot;&gt;
+        &lt;td&gt;Severity &lt;/td&gt;
+        &lt;td&gt;normal&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_creation_date&quot;&gt;
+        &lt;td&gt;Creation date&lt;/td&gt;
+        &lt;td&gt;2022-06-21T00:22:26Z&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_changed_date&quot;&gt;
+        &lt;td&gt;Last changed date&lt;/td&gt;
+        &lt;td&gt;2026-09-14T03:48:23Z&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>[Bug 18719] uneven indentation in str() output</title>
+    <link rel="alternate" type="text/html"
+          href="https://bugs.r-project.org/show_bug.cgi?id=18719"/>
+    <id>https://bugs.r-project.org/show_bug.cgi?id=18719</id>
+    <author>
+      <name>Dave Slager</name>
+    </author>
+    <updated>2026-09-19T16:02:32Z</updated>
+    <summary type="html">
+      
+      &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Field&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_product&quot;&gt;
+        &lt;td&gt;Product&lt;/td&gt;
+        &lt;td&gt;R&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_component&quot;&gt;
+        &lt;td&gt;Component&lt;/td&gt;
+        &lt;td&gt;Low-level&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_assignee&quot;&gt;
+        &lt;td&gt;AssignedToName&lt;/td&gt;
+        &lt;td&gt;R-core&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_reporter&quot;&gt;
+        &lt;td&gt;ReportedByName&lt;/td&gt;
+        &lt;td&gt;Dave Slager&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_bug_status&quot;&gt;
+        &lt;td&gt;Status&lt;/td&gt;
+        &lt;td&gt;CONFIRMED&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_resolution&quot;&gt;
+        &lt;td&gt;Resolution &lt;/td&gt;
+        &lt;td&gt;---&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_priority&quot;&gt;
+        &lt;td&gt;Priority&lt;/td&gt;
+        &lt;td&gt;P5&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_severity&quot;&gt;
+        &lt;td&gt;Severity &lt;/td&gt;
+        &lt;td&gt;trivial&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_creation_date&quot;&gt;
+        &lt;td&gt;Creation date&lt;/td&gt;
+        &lt;td&gt;2024-05-04T02:20:53Z&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_changed_date&quot;&gt;
+        &lt;td&gt;Last changed date&lt;/td&gt;
+        &lt;td&gt;2026-09-19T16:02:32Z&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>[Bug 19167] influence.measures() disagrees with dffits(), dfbetas() and covratio() for glm with fixed dispersion since R 4.6.0</title>
+    <link rel="alternate" type="text/html"
+          href="https://bugs.r-project.org/show_bug.cgi?id=19167"/>
+    <id>https://bugs.r-project.org/show_bug.cgi?id=19167</id>
+    <author>
+      <name>TAWFIK Amal</name>
+    </author>
+    <updated>2026-09-14T12:29:47Z</updated>
+    <summary type="html">
+      
+      &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Field&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_product&quot;&gt;
+        &lt;td&gt;Product&lt;/td&gt;
+        &lt;td&gt;R&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_component&quot;&gt;
+        &lt;td&gt;Component&lt;/td&gt;
+        &lt;td&gt;Models&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_assignee&quot;&gt;
+        &lt;td&gt;AssignedToName&lt;/td&gt;
+        &lt;td&gt;R-core&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_reporter&quot;&gt;
+        &lt;td&gt;ReportedByName&lt;/td&gt;
+        &lt;td&gt;TAWFIK Amal&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_bug_status&quot;&gt;
+        &lt;td&gt;Status&lt;/td&gt;
+        &lt;td&gt;CONFIRMED&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_resolution&quot;&gt;
+        &lt;td&gt;Resolution &lt;/td&gt;
+        &lt;td&gt;---&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_priority&quot;&gt;
+        &lt;td&gt;Priority&lt;/td&gt;
+        &lt;td&gt;P5&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_severity&quot;&gt;
+        &lt;td&gt;Severity &lt;/td&gt;
+        &lt;td&gt;normal&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_creation_date&quot;&gt;
+        &lt;td&gt;Creation date&lt;/td&gt;
+        &lt;td&gt;2026-09-11T01:33:17Z&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_changed_date&quot;&gt;
+        &lt;td&gt;Last changed date&lt;/td&gt;
+        &lt;td&gt;2026-09-14T12:29:47Z&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>[Bug 18330] type argument documentation in install.packages</title>
+    <link rel="alternate" type="text/html"
+          href="https://bugs.r-project.org/show_bug.cgi?id=18330"/>
+    <id>https://bugs.r-project.org/show_bug.cgi?id=18330</id>
+    <author>
+      <name>Josh Errickson</name>
+    </author>
+    <updated>2026-09-19T11:33:35Z</updated>
+    <summary type="html">
+      
+      &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Field&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_product&quot;&gt;
+        &lt;td&gt;Product&lt;/td&gt;
+        &lt;td&gt;R&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_component&quot;&gt;
+        &lt;td&gt;Component&lt;/td&gt;
+        &lt;td&gt;Documentation&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_assignee&quot;&gt;
+        &lt;td&gt;AssignedToName&lt;/td&gt;
+        &lt;td&gt;R-core&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_reporter&quot;&gt;
+        &lt;td&gt;ReportedByName&lt;/td&gt;
+        &lt;td&gt;Josh Errickson&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_bug_status&quot;&gt;
+        &lt;td&gt;Status&lt;/td&gt;
+        &lt;td&gt;TRIAGED&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_resolution&quot;&gt;
+        &lt;td&gt;Resolution &lt;/td&gt;
+        &lt;td&gt;---&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_priority&quot;&gt;
+        &lt;td&gt;Priority&lt;/td&gt;
+        &lt;td&gt;P5&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_severity&quot;&gt;
+        &lt;td&gt;Severity &lt;/td&gt;
+        &lt;td&gt;normal&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_creation_date&quot;&gt;
+        &lt;td&gt;Creation date&lt;/td&gt;
+        &lt;td&gt;2022-04-28T00:24:28Z&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_changed_date&quot;&gt;
+        &lt;td&gt;Last changed date&lt;/td&gt;
+        &lt;td&gt;2026-09-19T11:33:35Z&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>[Bug 18911] cleanup tcltk</title>
+    <link rel="alternate" type="text/html"
+          href="https://bugs.r-project.org/show_bug.cgi?id=18911"/>
+    <id>https://bugs.r-project.org/show_bug.cgi?id=18911</id>
+    <author>
+      <name>Eric Lindblad</name>
+    </author>
+    <updated>2026-09-19T14:48:16Z</updated>
+    <summary type="html">
+      
+      &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Field&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_product&quot;&gt;
+        &lt;td&gt;Product&lt;/td&gt;
+        &lt;td&gt;R&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_component&quot;&gt;
+        &lt;td&gt;Component&lt;/td&gt;
+        &lt;td&gt;Documentation&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_assignee&quot;&gt;
+        &lt;td&gt;AssignedToName&lt;/td&gt;
+        &lt;td&gt;R-core&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_reporter&quot;&gt;
+        &lt;td&gt;ReportedByName&lt;/td&gt;
+        &lt;td&gt;Eric Lindblad&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_bug_status&quot;&gt;
+        &lt;td&gt;Status&lt;/td&gt;
+        &lt;td&gt;TRIAGED&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_resolution&quot;&gt;
+        &lt;td&gt;Resolution &lt;/td&gt;
+        &lt;td&gt;---&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_priority&quot;&gt;
+        &lt;td&gt;Priority&lt;/td&gt;
+        &lt;td&gt;P5&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_severity&quot;&gt;
+        &lt;td&gt;Severity &lt;/td&gt;
+        &lt;td&gt;enhancement&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_creation_date&quot;&gt;
+        &lt;td&gt;Creation date&lt;/td&gt;
+        &lt;td&gt;2025-06-18T21:37:19Z&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_changed_date&quot;&gt;
+        &lt;td&gt;Last changed date&lt;/td&gt;
+        &lt;td&gt;2026-09-19T14:48:16Z&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>[Bug 19163] axis() throws error and plot() runs out of memory when repeated many times (&gt; 1000 plots)</title>
+    <link rel="alternate" type="text/html"
+          href="https://bugs.r-project.org/show_bug.cgi?id=19163"/>
+    <id>https://bugs.r-project.org/show_bug.cgi?id=19163</id>
+    <author>
+      <name>Andrea  Blomenhofer</name>
+    </author>
+    <updated>2026-09-12T19:19:34Z</updated>
+    <summary type="html">
+      
+      &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Field&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_product&quot;&gt;
+        &lt;td&gt;Product&lt;/td&gt;
+        &lt;td&gt;R&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_component&quot;&gt;
+        &lt;td&gt;Component&lt;/td&gt;
+        &lt;td&gt;Graphics&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_assignee&quot;&gt;
+        &lt;td&gt;AssignedToName&lt;/td&gt;
+        &lt;td&gt;R-core&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_reporter&quot;&gt;
+        &lt;td&gt;ReportedByName&lt;/td&gt;
+        &lt;td&gt;Andrea  Blomenhofer&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_bug_status&quot;&gt;
+        &lt;td&gt;Status&lt;/td&gt;
+        &lt;td&gt;TRIAGED&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_resolution&quot;&gt;
+        &lt;td&gt;Resolution &lt;/td&gt;
+        &lt;td&gt;---&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_priority&quot;&gt;
+        &lt;td&gt;Priority&lt;/td&gt;
+        &lt;td&gt;P5&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_severity&quot;&gt;
+        &lt;td&gt;Severity &lt;/td&gt;
+        &lt;td&gt;normal&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_creation_date&quot;&gt;
+        &lt;td&gt;Creation date&lt;/td&gt;
+        &lt;td&gt;2026-09-07T11:13:31Z&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_changed_date&quot;&gt;
+        &lt;td&gt;Last changed date&lt;/td&gt;
+        &lt;td&gt;2026-09-12T19:19:34Z&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>[Bug 19124] strptime() fails to parse %w of &apos;0&apos; in LC_CTYPE=C</title>
+    <link rel="alternate" type="text/html"
+          href="https://bugs.r-project.org/show_bug.cgi?id=19124"/>
+    <id>https://bugs.r-project.org/show_bug.cgi?id=19124</id>
+    <author>
+      <name>Michael Chirico</name>
+    </author>
+    <updated>2026-09-18T19:15:43Z</updated>
+    <summary type="html">
+      
+      &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Field&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_product&quot;&gt;
+        &lt;td&gt;Product&lt;/td&gt;
+        &lt;td&gt;R&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_component&quot;&gt;
+        &lt;td&gt;Component&lt;/td&gt;
+        &lt;td&gt;Low-level&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_assignee&quot;&gt;
+        &lt;td&gt;AssignedToName&lt;/td&gt;
+        &lt;td&gt;R-core&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_reporter&quot;&gt;
+        &lt;td&gt;ReportedByName&lt;/td&gt;
+        &lt;td&gt;Michael Chirico&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_bug_status&quot;&gt;
+        &lt;td&gt;Status&lt;/td&gt;
+        &lt;td&gt;REOPENED&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_resolution&quot;&gt;
+        &lt;td&gt;Resolution &lt;/td&gt;
+        &lt;td&gt;---&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_priority&quot;&gt;
+        &lt;td&gt;Priority&lt;/td&gt;
+        &lt;td&gt;P5&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_severity&quot;&gt;
+        &lt;td&gt;Severity &lt;/td&gt;
+        &lt;td&gt;minor&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_creation_date&quot;&gt;
+        &lt;td&gt;Creation date&lt;/td&gt;
+        &lt;td&gt;2026-08-04T16:49:03Z&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_changed_date&quot;&gt;
+        &lt;td&gt;Last changed date&lt;/td&gt;
+        &lt;td&gt;2026-09-18T19:15:43Z&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>[Bug 19133] A new matrix method for aperm</title>
+    <link rel="alternate" type="text/html"
+          href="https://bugs.r-project.org/show_bug.cgi?id=19133"/>
+    <id>https://bugs.r-project.org/show_bug.cgi?id=19133</id>
+    <author>
+      <name>Hugo Gruson</name>
+    </author>
+    <updated>2026-09-18T06:01:35Z</updated>
+    <summary type="html">
+      
+      &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Field&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_product&quot;&gt;
+        &lt;td&gt;Product&lt;/td&gt;
+        &lt;td&gt;R&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_component&quot;&gt;
+        &lt;td&gt;Component&lt;/td&gt;
+        &lt;td&gt;Low-level&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_assignee&quot;&gt;
+        &lt;td&gt;AssignedToName&lt;/td&gt;
+        &lt;td&gt;R-core&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_reporter&quot;&gt;
+        &lt;td&gt;ReportedByName&lt;/td&gt;
+        &lt;td&gt;Hugo Gruson&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_bug_status&quot;&gt;
+        &lt;td&gt;Status&lt;/td&gt;
+        &lt;td&gt;REOPENED&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_resolution&quot;&gt;
+        &lt;td&gt;Resolution &lt;/td&gt;
+        &lt;td&gt;---&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_priority&quot;&gt;
+        &lt;td&gt;Priority&lt;/td&gt;
+        &lt;td&gt;P5&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_severity&quot;&gt;
+        &lt;td&gt;Severity &lt;/td&gt;
+        &lt;td&gt;normal&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_creation_date&quot;&gt;
+        &lt;td&gt;Creation date&lt;/td&gt;
+        &lt;td&gt;2026-08-11T14:01:58Z&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_changed_date&quot;&gt;
+        &lt;td&gt;Last changed date&lt;/td&gt;
+        &lt;td&gt;2026-09-18T06:01:35Z&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>[Bug 18949] When neither %R_USER% nor %HOME% is set, path.expand(&apos;~&apos;) may return ANSI instead of UTF-8</title>
+    <link rel="alternate" type="text/html"
+          href="https://bugs.r-project.org/show_bug.cgi?id=18949"/>
+    <id>https://bugs.r-project.org/show_bug.cgi?id=18949</id>
+    <author>
+      <name>Ivan Krylov</name>
+    </author>
+    <updated>2026-09-17T16:23:18Z</updated>
+    <summary type="html">
+      
+      &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Field&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_product&quot;&gt;
+        &lt;td&gt;Product&lt;/td&gt;
+        &lt;td&gt;R&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_component&quot;&gt;
+        &lt;td&gt;Component&lt;/td&gt;
+        &lt;td&gt;Startup&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_assignee&quot;&gt;
+        &lt;td&gt;AssignedToName&lt;/td&gt;
+        &lt;td&gt;R-core&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_reporter&quot;&gt;
+        &lt;td&gt;ReportedByName&lt;/td&gt;
+        &lt;td&gt;Ivan Krylov&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_bug_status&quot;&gt;
+        &lt;td&gt;Status&lt;/td&gt;
+        &lt;td&gt;CLOSED&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_resolution&quot;&gt;
+        &lt;td&gt;Resolution &lt;/td&gt;
+        &lt;td&gt;FIXED&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_priority&quot;&gt;
+        &lt;td&gt;Priority&lt;/td&gt;
+        &lt;td&gt;P5&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_severity&quot;&gt;
+        &lt;td&gt;Severity &lt;/td&gt;
+        &lt;td&gt;normal&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_creation_date&quot;&gt;
+        &lt;td&gt;Creation date&lt;/td&gt;
+        &lt;td&gt;2025-09-26T12:05:56Z&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_changed_date&quot;&gt;
+        &lt;td&gt;Last changed date&lt;/td&gt;
+        &lt;td&gt;2026-09-17T16:23:18Z&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>[Bug 19166] extractAIC.Rd: annotated output in the example does not match what extractAIC() returns</title>
+    <link rel="alternate" type="text/html"
+          href="https://bugs.r-project.org/show_bug.cgi?id=19166"/>
+    <id>https://bugs.r-project.org/show_bug.cgi?id=19166</id>
+    <author>
+      <name>TAWFIK Amal</name>
+    </author>
+    <updated>2026-09-18T14:40:26Z</updated>
+    <summary type="html">
+      
+      &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Field&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_product&quot;&gt;
+        &lt;td&gt;Product&lt;/td&gt;
+        &lt;td&gt;R&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_component&quot;&gt;
+        &lt;td&gt;Component&lt;/td&gt;
+        &lt;td&gt;Documentation&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_assignee&quot;&gt;
+        &lt;td&gt;AssignedToName&lt;/td&gt;
+        &lt;td&gt;R-core&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_reporter&quot;&gt;
+        &lt;td&gt;ReportedByName&lt;/td&gt;
+        &lt;td&gt;TAWFIK Amal&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_bug_status&quot;&gt;
+        &lt;td&gt;Status&lt;/td&gt;
+        &lt;td&gt;CLOSED&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_resolution&quot;&gt;
+        &lt;td&gt;Resolution &lt;/td&gt;
+        &lt;td&gt;FIXED&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_priority&quot;&gt;
+        &lt;td&gt;Priority&lt;/td&gt;
+        &lt;td&gt;P5&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_severity&quot;&gt;
+        &lt;td&gt;Severity &lt;/td&gt;
+        &lt;td&gt;minor&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_creation_date&quot;&gt;
+        &lt;td&gt;Creation date&lt;/td&gt;
+        &lt;td&gt;2026-09-11T00:22:24Z&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_changed_date&quot;&gt;
+        &lt;td&gt;Last changed date&lt;/td&gt;
+        &lt;td&gt;2026-09-18T14:40:26Z&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>[Bug 19171] Out of bounds read in stats::ksmooth</title>
+    <link rel="alternate" type="text/html"
+          href="https://bugs.r-project.org/show_bug.cgi?id=19171"/>
+    <id>https://bugs.r-project.org/show_bug.cgi?id=19171</id>
+    <author>
+      <name>Adam Berkeš</name>
+    </author>
+    <updated>2026-09-19T17:24:51Z</updated>
+    <summary type="html">
+      
+      &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Field&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_product&quot;&gt;
+        &lt;td&gt;Product&lt;/td&gt;
+        &lt;td&gt;R&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_component&quot;&gt;
+        &lt;td&gt;Component&lt;/td&gt;
+        &lt;td&gt;Analyses&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_assignee&quot;&gt;
+        &lt;td&gt;AssignedToName&lt;/td&gt;
+        &lt;td&gt;R-core&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_reporter&quot;&gt;
+        &lt;td&gt;ReportedByName&lt;/td&gt;
+        &lt;td&gt;Adam Berkeš&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_bug_status&quot;&gt;
+        &lt;td&gt;Status&lt;/td&gt;
+        &lt;td&gt;CLOSED&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_resolution&quot;&gt;
+        &lt;td&gt;Resolution &lt;/td&gt;
+        &lt;td&gt;FIXED&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_priority&quot;&gt;
+        &lt;td&gt;Priority&lt;/td&gt;
+        &lt;td&gt;P5&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_severity&quot;&gt;
+        &lt;td&gt;Severity &lt;/td&gt;
+        &lt;td&gt;normal&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_creation_date&quot;&gt;
+        &lt;td&gt;Creation date&lt;/td&gt;
+        &lt;td&gt;2026-09-12T09:52:46Z&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_changed_date&quot;&gt;
+        &lt;td&gt;Last changed date&lt;/td&gt;
+        &lt;td&gt;2026-09-19T17:24:51Z&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>[Bug 19172] Support for writeable rawConnection in gzcon</title>
+    <link rel="alternate" type="text/html"
+          href="https://bugs.r-project.org/show_bug.cgi?id=19172"/>
+    <id>https://bugs.r-project.org/show_bug.cgi?id=19172</id>
+    <author>
+      <name>Ivan Krylov</name>
+    </author>
+    <updated>2026-09-17T15:39:38Z</updated>
+    <summary type="html">
+      
+      &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Field&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_product&quot;&gt;
+        &lt;td&gt;Product&lt;/td&gt;
+        &lt;td&gt;R&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_component&quot;&gt;
+        &lt;td&gt;Component&lt;/td&gt;
+        &lt;td&gt;Wishlist&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_assignee&quot;&gt;
+        &lt;td&gt;AssignedToName&lt;/td&gt;
+        &lt;td&gt;R-core&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_reporter&quot;&gt;
+        &lt;td&gt;ReportedByName&lt;/td&gt;
+        &lt;td&gt;Ivan Krylov&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_bug_status&quot;&gt;
+        &lt;td&gt;Status&lt;/td&gt;
+        &lt;td&gt;CLOSED&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_resolution&quot;&gt;
+        &lt;td&gt;Resolution &lt;/td&gt;
+        &lt;td&gt;FIXED&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_priority&quot;&gt;
+        &lt;td&gt;Priority&lt;/td&gt;
+        &lt;td&gt;P5&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_severity&quot;&gt;
+        &lt;td&gt;Severity &lt;/td&gt;
+        &lt;td&gt;normal&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_creation_date&quot;&gt;
+        &lt;td&gt;Creation date&lt;/td&gt;
+        &lt;td&gt;2026-09-13T15:29:49Z&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_changed_date&quot;&gt;
+        &lt;td&gt;Last changed date&lt;/td&gt;
+        &lt;td&gt;2026-09-17T15:39:38Z&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>[Bug 19173] as.list.function()&apos; dispatches without checking argument</title>
+    <link rel="alternate" type="text/html"
+          href="https://bugs.r-project.org/show_bug.cgi?id=19173"/>
+    <id>https://bugs.r-project.org/show_bug.cgi?id=19173</id>
+    <author>
+      <name>mark padgham</name>
+    </author>
+    <updated>2026-09-17T10:14:16Z</updated>
+    <summary type="html">
+      
+      &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Field&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_product&quot;&gt;
+        &lt;td&gt;Product&lt;/td&gt;
+        &lt;td&gt;R&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_component&quot;&gt;
+        &lt;td&gt;Component&lt;/td&gt;
+        &lt;td&gt;Language&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_assignee&quot;&gt;
+        &lt;td&gt;AssignedToName&lt;/td&gt;
+        &lt;td&gt;R-core&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_reporter&quot;&gt;
+        &lt;td&gt;ReportedByName&lt;/td&gt;
+        &lt;td&gt;mark padgham&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_bug_status&quot;&gt;
+        &lt;td&gt;Status&lt;/td&gt;
+        &lt;td&gt;CLOSED&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_resolution&quot;&gt;
+        &lt;td&gt;Resolution &lt;/td&gt;
+        &lt;td&gt;FIXED&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_priority&quot;&gt;
+        &lt;td&gt;Priority&lt;/td&gt;
+        &lt;td&gt;P5&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_severity&quot;&gt;
+        &lt;td&gt;Severity &lt;/td&gt;
+        &lt;td&gt;normal&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_creation_date&quot;&gt;
+        &lt;td&gt;Creation date&lt;/td&gt;
+        &lt;td&gt;2026-09-15T12:39:26Z&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_changed_date&quot;&gt;
+        &lt;td&gt;Last changed date&lt;/td&gt;
+        &lt;td&gt;2026-09-17T10:14:16Z&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>[Bug 19176] Round trip on version numbers with dash</title>
+    <link rel="alternate" type="text/html"
+          href="https://bugs.r-project.org/show_bug.cgi?id=19176"/>
+    <id>https://bugs.r-project.org/show_bug.cgi?id=19176</id>
+    <author>
+      <name>Llu�s</name>
+    </author>
+    <updated>2026-09-19T10:29:26Z</updated>
+    <summary type="html">
+      
+      &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Field&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_product&quot;&gt;
+        &lt;td&gt;Product&lt;/td&gt;
+        &lt;td&gt;R&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_component&quot;&gt;
+        &lt;td&gt;Component&lt;/td&gt;
+        &lt;td&gt;Wishlist&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_assignee&quot;&gt;
+        &lt;td&gt;AssignedToName&lt;/td&gt;
+        &lt;td&gt;R-core&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_reporter&quot;&gt;
+        &lt;td&gt;ReportedByName&lt;/td&gt;
+        &lt;td&gt;Llu�s&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_bug_status&quot;&gt;
+        &lt;td&gt;Status&lt;/td&gt;
+        &lt;td&gt;CLOSED&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_resolution&quot;&gt;
+        &lt;td&gt;Resolution &lt;/td&gt;
+        &lt;td&gt;DUPLICATE&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_priority&quot;&gt;
+        &lt;td&gt;Priority&lt;/td&gt;
+        &lt;td&gt;P5&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_severity&quot;&gt;
+        &lt;td&gt;Severity &lt;/td&gt;
+        &lt;td&gt;enhancement&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_creation_date&quot;&gt;
+        &lt;td&gt;Creation date&lt;/td&gt;
+        &lt;td&gt;2026-09-19T10:27:39Z&lt;/td&gt;
+      &lt;/tr&gt;&lt;tr class=&quot;bz_feed_changed_date&quot;&gt;
+        &lt;td&gt;Last changed date&lt;/td&gt;
+        &lt;td&gt;2026-09-19T10:29:26Z&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </summary>
+  </entry>
+</feed>
